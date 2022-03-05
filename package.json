@@ -1,0 +1,33 @@
+{
+    "name": "bluis-pack",
+    "displayName": "Bluis-Pack",
+    "publisher": "Bluis",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint", 
+        "EditorConfig.EditorConfig", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-rename-tag", 
+        "formulahendry.code-runner", 
+        "jpoissonnier.vscode-styled-components", 
+        "mrmlnc.vscode-duplicate", 
+        "ms-vscode.vscode-typescript-next", 
+        "ms-vsliveshare.vsliveshare", 
+        "patbenatar.advanced-new-file", 
+        "PulkitGangwar.nextjs-snippets", 
+        "rangav.vscode-thunder-client", 
+        "skyran.js-jsx-snippets", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "waderyan.gitblame", 
+        "xabikos.JavaScriptSnippets", 
+        "PKief.material-icon-theme", 
+        "zhuangtongfa.material-theme"
+    ]
+}

@@ -10,6 +10,11 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "img/square.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brunolbahiense/Bluis-Pack"
+    },
     "extensionPack": [ 
         "dbaeumer.vscode-eslint", 
         "EditorConfig.EditorConfig", 
